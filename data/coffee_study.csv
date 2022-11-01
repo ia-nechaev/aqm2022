@@ -1,0 +1,101 @@
+,stud_coffee_breaks,prof_coffee_breaks,sleepy_coffee_value,on_the_go_coffee_value,coffee_consumption_scientists_year,coffee_type_stud,coffee_type_prof,coffee_cheater,coffee_thief,coffee_murder
+0,8,4,6.0,7.0,1758.0,cappuccino,cappuccino,milk and sugar,black,milk and sugar
+1,6,6,9.0,7.0,1577.0,espresso,others,milk,black,black
+2,10,7,7.0,6.0,1272.0,latte,cappuccino,black,milk and sugar,black
+3,5,1,11.0,9.0,1136.0,cappuccino,latte,milk,black,black
+4,7,4,11.0,9.0,949.0,cappuccino,espresso,milk,milk,black
+5,3,3,8.0,6.0,1360.0,latte,others,milk,milk and sugar,black
+6,6,6,7.0,8.0,891.0,americano,cappuccino,milk,milk,milk and sugar
+7,6,6,9.0,8.0,1330.0,latte,americano,milk,milk and sugar,milk and sugar
+8,5,2,8.0,8.0,958.0,latte,latte,milk,black,black
+9,4,14,7.0,8.0,827.0,cappuccino,espresso,milk and sugar,milk,milk
+10,6,5,10.0,10.0,1195.0,espresso,americano,milk,milk and sugar,milk and sugar
+11,4,9,10.0,10.0,1159.0,latte,cappuccino,black,black,black
+12,6,4,8.0,7.0,1386.0,latte,cappuccino,milk,milk and sugar,milk
+13,6,3,7.0,7.0,1514.0,cappuccino,americano,milk,milk and sugar,milk and sugar
+14,4,6,9.0,7.0,1869.0,others,others,milk,milk,black
+15,2,7,9.0,7.0,1669.0,cappuccino,americano,milk,black,milk
+16,1,3,9.0,8.0,1208.0,latte,espresso,milk,milk and sugar,milk
+17,4,6,9.0,8.0,1164.0,cappuccino,latte,milk,milk,black
+18,6,10,6.0,7.0,1552.0,latte,americano,black,milk and sugar,milk
+19,7,4,11.0,8.0,1292.0,latte,cappuccino,milk and sugar,milk and sugar,milk and sugar
+20,6,4,9.0,9.0,1011.0,espresso,espresso,milk and sugar,milk and sugar,milk
+21,8,5,7.0,9.0,1523.0,others,cappuccino,milk,milk and sugar,milk
+22,4,2,7.0,7.0,1310.0,others,espresso,milk,milk,black
+23,8,10,9.0,8.0,1166.0,cappuccino,cappuccino,milk,milk and sugar,milk and sugar
+24,5,8,8.0,8.0,995.0,espresso,americano,black,milk and sugar,milk
+25,6,8,8.0,7.0,1003.0,cappuccino,espresso,milk,milk,black
+26,9,4,7.0,7.0,1196.0,cappuccino,others,milk and sugar,milk,black
+27,0,6,11.0,8.0,836.0,cappuccino,latte,milk,milk and sugar,milk
+28,2,5,8.0,8.0,1315.0,cappuccino,latte,milk,milk and sugar,black
+29,9,2,10.0,8.0,707.0,cappuccino,cappuccino,black,milk and sugar,black
+30,9,5,8.0,9.0,1143.0,others,espresso,milk,milk and sugar,milk
+31,3,8,10.0,8.0,1001.0,others,espresso,milk,milk and sugar,milk and sugar
+32,4,6,7.0,8.0,1651.0,latte,americano,milk,black,black
+33,2,5,8.0,9.0,1137.0,latte,americano,milk,black,milk
+34,9,4,10.0,8.0,920.0,others,espresso,milk and sugar,black,milk and sugar
+35,5,6,10.0,10.0,1429.0,others,americano,milk and sugar,black,milk and sugar
+36,6,2,9.0,8.0,1187.0,cappuccino,cappuccino,milk,milk and sugar,milk
+37,6,5,9.0,8.0,1198.0,cappuccino,cappuccino,milk,black,milk
+38,4,9,8.0,8.0,1552.0,cappuccino,espresso,milk,black,milk
+39,9,4,8.0,8.0,1172.0,americano,latte,milk,black,black
+40,2,9,7.0,8.0,1533.0,espresso,cappuccino,black,milk and sugar,milk
+41,2,4,6.0,8.0,1011.0,others,others,milk and sugar,black,milk and sugar
+42,6,4,9.0,8.0,1161.0,cappuccino,espresso,milk and sugar,milk,milk
+43,7,8,8.0,8.0,928.0,others,espresso,milk,milk and sugar,black
+44,3,3,10.0,9.0,1533.0,espresso,others,black,milk and sugar,milk and sugar
+45,5,8,12.0,8.0,1081.0,cappuccino,latte,milk and sugar,milk and sugar,black
+46,1,5,8.0,8.0,923.0,cappuccino,americano,milk,milk and sugar,milk and sugar
+47,8,4,5.0,10.0,1604.0,cappuccino,americano,black,milk,black
+48,0,5,13.0,6.0,1526.0,americano,cappuccino,milk and sugar,milk and sugar,black
+49,4,5,6.0,8.0,1128.0,espresso,latte,milk and sugar,black,milk
+50,3,9,6.0,7.0,1399.0,others,latte,milk,milk and sugar,milk and sugar
+51,1,6,7.0,8.0,1234.0,cappuccino,espresso,black,milk and sugar,milk and sugar
+52,8,4,9.0,9.0,1166.0,cappuccino,americano,milk,milk,black
+53,6,5,7.0,5.0,1509.0,americano,latte,milk,milk,milk and sugar
+54,5,4,12.0,8.0,1462.0,espresso,cappuccino,milk,milk,black
+55,4,7,8.0,8.0,692.0,cappuccino,others,black,milk and sugar,black
+56,3,10,11.0,8.0,1283.0,espresso,cappuccino,black,milk,milk
+57,5,8,7.0,7.0,1932.0,others,americano,milk,milk and sugar,black
+58,9,7,6.0,4.0,979.0,latte,cappuccino,milk,black,milk and sugar
+59,6,3,9.0,9.0,1616.0,cappuccino,others,milk,black,milk
+60,5,6,4.0,8.0,1203.0,latte,cappuccino,black,milk and sugar,milk and sugar
+61,3,4,9.0,10.0,978.0,americano,americano,milk,milk,milk
+62,4,6,11.0,8.0,999.0,latte,espresso,milk,milk,milk
+63,1,6,11.0,8.0,1232.0,cappuccino,latte,black,milk and sugar,milk
+64,4,3,4.0,9.0,1166.0,latte,espresso,milk and sugar,black,black
+65,7,7,10.0,9.0,1466.0,cappuccino,cappuccino,black,milk and sugar,milk and sugar
+66,3,3,10.0,9.0,1292.0,others,cappuccino,black,milk and sugar,milk and sugar
+67,4,9,7.0,10.0,980.0,cappuccino,espresso,milk and sugar,milk and sugar,milk
+68,1,2,4.0,8.0,417.0,cappuccino,others,milk,milk and sugar,milk
+69,3,6,6.0,10.0,1220.0,cappuccino,latte,milk and sugar,milk and sugar,milk
+70,4,3,9.0,6.0,966.0,espresso,cappuccino,black,milk and sugar,black
+71,4,3,12.0,8.0,1362.0,latte,americano,milk,milk and sugar,milk
+72,4,3,6.0,9.0,765.0,others,latte,black,milk and sugar,black
+73,3,10,9.0,10.0,984.0,cappuccino,others,milk and sugar,black,milk and sugar
+74,3,3,6.0,7.0,924.0,others,americano,milk,milk and sugar,black
+75,6,6,9.0,8.0,1036.0,latte,others,black,black,black
+76,4,4,7.0,7.0,1888.0,cappuccino,latte,black,milk and sugar,milk
+77,2,3,5.0,9.0,1107.0,latte,cappuccino,milk,milk and sugar,milk and sugar
+78,5,4,8.0,7.0,1491.0,others,latte,milk and sugar,milk and sugar,black
+79,5,11,6.0,9.0,891.0,latte,americano,milk,milk and sugar,milk
+80,5,6,7.0,6.0,964.0,cappuccino,cappuccino,black,black,black
+81,5,5,8.0,7.0,655.0,cappuccino,others,black,milk and sugar,milk and sugar
+82,4,8,9.0,9.0,954.0,americano,americano,milk,milk and sugar,black
+83,7,8,9.0,8.0,1348.0,americano,cappuccino,milk and sugar,black,black
+84,6,5,10.0,8.0,1808.0,latte,cappuccino,milk,milk and sugar,milk
+85,8,5,10.0,6.0,915.0,cappuccino,cappuccino,milk and sugar,milk,milk
+86,5,4,5.0,7.0,1137.0,cappuccino,espresso,black,milk and sugar,milk
+87,7,7,11.0,8.0,1388.0,americano,cappuccino,milk,milk,black
+88,3,7,7.0,9.0,1345.0,cappuccino,cappuccino,black,milk and sugar,black
+89,8,3,9.0,8.0,1530.0,latte,cappuccino,milk,black,milk
+90,3,3,6.0,9.0,1497.0,others,latte,milk,milk and sugar,milk and sugar
+91,6,6,10.0,8.0,1467.0,cappuccino,americano,milk,black,milk
+92,6,7,9.0,7.0,1210.0,cappuccino,espresso,milk,milk and sugar,black
+93,4,2,11.0,8.0,1178.0,cappuccino,others,milk,milk and sugar,black
+94,4,9,10.0,8.0,1588.0,latte,espresso,milk and sugar,milk and sugar,black
+95,4,8,8.0,7.0,282.0,cappuccino,espresso,milk,milk and sugar,black
+96,4,5,10.0,9.0,1063.0,americano,cappuccino,black,milk and sugar,milk
+97,7,16,12.0,8.0,1119.0,latte,americano,milk and sugar,milk and sugar,milk
+98,3,6,10.0,8.0,1077.0,americano,cappuccino,milk,milk and sugar,milk and sugar
+99,1,4,7.0,9.0,1303.0,latte,others,milk,milk and sugar,milk and sugar
